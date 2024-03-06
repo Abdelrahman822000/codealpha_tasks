@@ -1,9 +1,9 @@
-This Game was developed by Abdelrahman Mohamed Hamad
+**This Game was developed by Abdelrahman Mohamed Hamad**
 
 #About Hangman Game:
 
 it is a word-guessing game.
-The player chooses a category, next a secret word is randomly picked from selected category,
+The player chooses a category, a secret word is randomly picked from the selected category,
 then the player tries to guess the secret word. 
 
 When the player guesses a letter that isn't in the word, 
@@ -24,9 +24,9 @@ To Run the game just open "Hangman Game.exe"
 
 If you have Python you can check the code in "Hangman_Game.py"
 
-First check that you have "tkinter" and "customtkinter" libraries downloaded
+First, check that you have "tkinter" and "customtkinter" libraries downloaded
 
-If the libraries isn't downloaded you can download ny typing this commands in the terminal:
+If the libraries aren't downloaded you can download them by typing this commands in the terminal:
 pip install tkinter
 pip install customtkinter
 
@@ -44,7 +44,7 @@ The first text box: you choose the category you wish to have from
 		-'5': Body
 		-Otherwise: All categories
 
-After choosing category the game will select a secret word randomly from chosen category.
+After choosing the category, the game will randomly select a secret word from the chosen category.
 
 The second text box: you type a letter and press enter
 
@@ -52,7 +52,7 @@ if the letter is in the secret word, it is assigned to its location and the game
 
 if the letter isn't in the secret word, the game draws a part of a stickman and the game continues.
 
-the game continues untill all letters are guessed right, in this case you win, 
-or untill the drawing of the stickman completes, in this case you lost.
+the game continues until all letters are guessed right, in this case, you win, 
+or until the drawing of the stickman is completed, in this case, you lost.
 
 After finishing the game you can press space to reset.
