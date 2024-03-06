@@ -37,12 +37,12 @@ The first text box: you choose the category you wish to have from
 (Numbers, Animals, Colors, Clothes, Body) or choose all of them.
     
 if you type: 
-	-'1': Numbers
-	-'2': Animals
-	-'3': Colors
-	-'4': Clothes
-	-'5': Body
-	-Otherwise: All categories
+* '1': Numbers
+* '2': Animals
+* '3': Colors
+* '4': Clothes
+* '5': Body
+* Otherwise: All categories
 
 After choosing the category, the game will randomly select a secret word from the chosen category.
 
