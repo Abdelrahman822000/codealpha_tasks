@@ -1,8 +1,8 @@
 **This Game was developed by Abdelrahman Mohamed Hamad**
 
-# About Hangman Game:
+#About Hangman Game:
 
-It is a word-guessing game.
+it is a word-guessing game.
 The player chooses a category, a secret word is randomly picked from the selected category,
 then the player tries to guess the secret word. 
 
@@ -18,7 +18,7 @@ If the player guesses the secret word right before the drawing is completed he w
 
 
 
-# Insructions:
+#Insructions:
 
 To Run the game just open "Hangman Game.exe"
 
@@ -30,7 +30,7 @@ If the libraries aren't downloaded you can download them by typing this commands
 pip install tkinter
 pip install customtkinter
 
-# How to play:
+#How to play:
 
 After opening the game you will have two text boxes to type in
 
