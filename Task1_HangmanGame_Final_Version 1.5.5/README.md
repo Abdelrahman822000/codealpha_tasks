@@ -19,16 +19,15 @@ If the player guesses the secret word right before the drawing is completed he w
 
 
 # Insructions:
-
-To Run the game just open "Hangman Game.exe"
-
-If you have Python you can check the code in "Hangman_Game.py"
-
 First, check that you have "tkinter" and "customtkinter" libraries downloaded
 
 If the libraries aren't downloaded you can download them by typing this commands in the terminal:
 pip install tkinter
 pip install customtkinter
+
+After checking you can now run the game by opening "Hangman Game.bat"
+
+You can check the code in "Hangman_Game.py"
 
 # How to play:
 
@@ -36,13 +35,14 @@ After opening the game you will have two text boxes to type in
 
 The first text box: you choose the category you wish to have from
 (Numbers, Animals, Colors, Clothes, Body) or choose all of them.
-    if you type: 
-		-'1': Numbers
-		-'2': Animals
-		-'3': Colors
-		-'4': Clothes
-		-'5': Body
-		-Otherwise: All categories
+    
+if you type: 
+* '1': Numbers
+* '2': Animals
+* '3': Colors
+* '4': Clothes
+* '5': Body
+* Otherwise: All categories
 
 After choosing the category, the game will randomly select a secret word from the chosen category.
 
