@@ -2,7 +2,7 @@
 
 # About Hangman Game:
 
-it is a word-guessing game.
+It is a word-guessing game.
 The player chooses a category, a secret word is randomly picked from the selected category,
 then the player tries to guess the secret word. 
 
