@@ -20,6 +20,5 @@ Or You can run the code in "EasyTalker.py"
 # How to use:
 
 After opening you can type whatever you want to say to the chatbot at it will respond to you.
-You can quit the Chatbot by typing quit.
 Take care that this is a basic Chatbot not made with AI so it have some questions and responds and if you ask a question that it doesn't know it won't understand.
 If you want to check what you can ask the Chatbot check "Pairs.py".
