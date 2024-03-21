@@ -19,15 +19,16 @@ If the player guesses the secret word right before the drawing is completed he w
 
 
 # Insructions:
-First, check that you have "tkinter" and "customtkinter" libraries downloaded
+First, check that you have Python3 downloaded 
+Then check that you have "tkinter" and "customtkinter" libraries downloaded
 
-If the libraries aren't downloaded you can download them by typing this commands in the terminal:
+If the libraries aren't downloaded you can download them by typing this commands in the terminal or CMD:
 pip install tkinter
 pip install customtkinter
 
 After checking you can now run the game by opening "Hangman Game.bat"
 
-You can check the code in "Hangman_Game.py"
+Or You can run the code in "Hangman_Game.py"
 
 # How to play:
 
