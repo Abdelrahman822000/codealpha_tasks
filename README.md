@@ -17,7 +17,7 @@ If the drawing of the stickman is completed then he will be hanged and the playe
 
 If the player guesses the secret word right before the drawing is completed he wins and the stickman is saved.
 
-you can find the game in [here].(./Task1_HangmanGame_Final_Version%20v.1.6.7)
+you can find the game in [here](./Task1_HangmanGame_Final_Version%20v.1.6.7).
 
 # Task 2:
 ## Basic Chatbot:
@@ -26,4 +26,4 @@ Chatbots are software applications designed to simulate conversation with human 
 They interact through text and can answer questions.
 
 
-you can find the Chatbot in [here](./Task2_BasicChatbot_Final_Version%20v.2.2.6)
+you can find the Chatbot in [here](./Task2_BasicChatbot_Final_Version%20v.2.2.6).
