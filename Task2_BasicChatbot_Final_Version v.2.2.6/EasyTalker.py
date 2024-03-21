@@ -1,6 +1,6 @@
 ## Author  : Abdelrahman Mohamed Hamad
 ## Date    : 19/3/2024
-## Version : 2.2.5
+## Version : 2.2.6
 
 #!/usr/bin/env python3
 
