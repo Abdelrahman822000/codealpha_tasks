@@ -26,7 +26,7 @@ pairs = [
     (["haha","lol","thats funny"],["Glad I could make you laugh !"]),
     (["who made you","who designed you","who programmed you"],["I was made by Abdelrahman Mohamed"]),
     (["who is he","who is that","who is abdelrahman","abdelrahman mohamed"],["Head over to any of his social profiles to find out! \nLinkedin: https://www.linkedin.com/in/abdelrahman-mohamed-a1956b247/ \nGithub: https://github.com/Abdelrahman822000"]),
-    (["contact developer","contact Abdelrahman","contact programmer","contact creator","how can i contact Abdelrahman","how can i contact creator","how can i contact programmer","how can i contact developer"],["You can contact my creator at his Linkedin profile : https://www.linkedin.com/in/abdelrahman-mohamed-a1956b247/"]),
+    (["contact developer","contact Abdelrahman","contact programmer","contact creator","how can i contact Abdelrahman","how can i contact creator","how can i contact programmer","how can i contact developer","how can i contact him?"],["You can contact my creator at his Linkedin profile : https://www.linkedin.com/in/abdelrahman-mohamed-a1956b247/"]),
     (["i am good","I'm good","i am fine"," i'm fine","good"],["Good to know!"]),
     (["you are useless","useless","suggest","suggestions","you are bad"],["Please mail your suggestions to a.mohamed822000@gmail.com .\nThank you for helping me improve!"]),
     (["tell me a riddle","riddle"],["What two things can you never eat for breakfast?.....Lunch and Dinner!",
