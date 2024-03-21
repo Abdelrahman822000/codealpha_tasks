@@ -19,11 +19,8 @@ class Chat:
         # This function is to check if the question given have a response or not.
         z=0 # Flag for checking if there is a response
         for (pattern, response) in self._pairs:
-            print(pattern)
             # This loop is to check if the question given have a response or not.
-            print(S)
             match = S.lower() in pattern
-            print(match)
             if match:
                 resp = random.choice(response)
                 z=1
