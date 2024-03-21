@@ -17,17 +17,25 @@ class Chat:
     
     def respond(self,S):
         # This function is to check if the question given have a response or not.
+        z=0 # Flag for checking if there is a response
         for (pattern, response) in self._pairs:
+            print(pattern)
             # This loop is to check if the question given have a response or not.
+            print(S)
             match = S.lower() in pattern
+            print(match)
             if match:
                 resp = random.choice(response)
-                return resp
+                z=1
             else:
                 for question in pattern:
                     if question.lower() in S.lower():
                         resp = random.choice(response)
-                        return resp
+                        z=1
+        if z==1:
+            return resp
+        else:
+            return False
 
     def converse(self):
         # This function takes the question of the user as an input and print the response of the chatbot.
