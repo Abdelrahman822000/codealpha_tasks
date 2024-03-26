@@ -2,6 +2,8 @@
 ## Date    : 25/3/2024
 ## Version : 1.5.3
 
+#!/usr/bin/env python3
+
 from os import listdir,remove
 from random import choice
 from shutil import copy2
