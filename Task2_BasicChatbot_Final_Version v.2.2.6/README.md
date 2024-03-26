@@ -10,8 +10,8 @@ First, check that you have Python3 downloaded
 Then check that you have "tkinter" and "customtkinter" libraries downloaded
 
 If the libraries aren't downloaded you can download them by typing this commands in the terminal or CMD:
-pip install tkinter
-pip install customtkinter
+- pip install tkinter
+- pip install customtkinter
 
 After checking you can now run the game by opening "EasyTalker.bat"
 
